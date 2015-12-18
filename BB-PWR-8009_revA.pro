@@ -1,4 +1,4 @@
-update=" 4.06.2015 (чт) 11,49,04 EEST"
+update=Fri 18 Dec 2015 07:05:30 AM EET
 version=1
 last_client=kicad
 [pcbnew]
@@ -60,3 +60,13 @@ LibName28=contrib
 LibName29=valves
 LibName30=/home/chris/Olimex_OTHER/MOD-AIO/Hardware/trunk/BRD/MOD-ADIO
 LibName31=/home/chris/KiCAD_Foots/OLIMEX_IC-FP.pretty/olimex-pwr-ic
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60
