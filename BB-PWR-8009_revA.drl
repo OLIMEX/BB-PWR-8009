@@ -1,0 +1,25 @@
+M48
+;DRILL file {KiCad no-vcs-found-product} date 17.07.2015 (пт) 15,05,04 EEST
+;FORMAT={-:-/ absolute / metric / decimal}
+FMAT,2
+METRIC,TZ
+T1C0.400
+T2C0.700
+T3C1.000
+%
+G90
+G05
+M71
+T1
+X19.494Y-19.621
+X20.889Y-24.704
+T2
+X16.7Y-25.654
+X21.907Y-25.209
+T3
+X21.59Y-29.21
+X24.13Y-29.21
+X25.4Y-20.32
+X25.4Y-22.86
+T0
+M30
